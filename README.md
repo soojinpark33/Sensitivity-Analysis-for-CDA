@@ -22,7 +22,7 @@ Here, we provide `R` codes to reproduce our simulation study and replicate our d
 
 * `SensAnal_Manuscript.R` 
  
-   This `R` file included here replicates Table 1 and Figures 2 and 3 for our study.
+   This `R` file replicates Table 1 and Figures 2 and 3 of our study.
 
 These supplementary materials are provided solely for the purpose of reproducibility and must be used in compliance with academic ethical guidelines. If you reference these materials in your own work, please ensure proper citation of the original sources.
 
@@ -30,7 +30,7 @@ These supplementary materials are provided solely for the purpose of reproducibi
 
 * `SensAnal_AppendixE.R`  
 
-   This `R` file contains the simulation codes for our propposed $R^2$-based sensitivity analysis. This code replicates our results in Appendix E of [our paper](https://arxiv.org/abs/2205.13127).
+   This `R` file contains the simulation codes for our propposed $R^2$-based sensitivity analysis. This code replicates our results in Appendix E of our paper.
 
 * `SensAnal_source.R` 
  
