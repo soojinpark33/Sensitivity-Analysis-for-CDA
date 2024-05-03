@@ -1,4 +1,4 @@
-# Sensitivity-Analysis-for-CDA
+# Sensitivity Analysis for Causal Decomposition Analysis: Assessing Robustness Toward Omitted Variable Bias
 
 Soojin Park<sup>1</sup>, Suyeon Kang<sup>2</sup>, Chioun Lee<sup>3</sup>, and Shujie Ma<sup>2</sup>
 
